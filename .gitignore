@@ -24,3 +24,4 @@ lib64
 venv*/
 pyvenv*/
 pip-wheel-metadata/
+.idea/
